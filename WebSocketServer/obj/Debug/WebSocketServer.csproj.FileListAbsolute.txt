@@ -1,0 +1,7 @@
+D:\Development\Projects\WebSocketServer\WebSocketServer\bin\Debug\WebSocketServer.exe.config
+D:\Development\Projects\WebSocketServer\WebSocketServer\bin\Debug\WebSocketServer.exe
+D:\Development\Projects\WebSocketServer\WebSocketServer\bin\Debug\WebSocketServer.pdb
+D:\Development\Projects\WebSocketServer\WebSocketServer\obj\Debug\WebSocketServer.csproj.CoreCompileInputs.cache
+D:\Development\Projects\WebSocketServer\WebSocketServer\obj\Debug\WebSocketServer.exe
+D:\Development\Projects\WebSocketServer\WebSocketServer\obj\Debug\WebSocketServer.pdb
+D:\Development\Projects\WebSocketServer\WebSocketServer\obj\Debug\WebSocketServer.csprojResolveAssemblyReference.cache
